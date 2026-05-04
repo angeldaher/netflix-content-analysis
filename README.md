@@ -29,8 +29,7 @@ The goal is to explore trends in content type, release year, country, genre, and
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard] (dashboard.png)
-
+![Dashboard](dashboard.png)
 ---
 
 ## 🔗 Project Link
